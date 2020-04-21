@@ -50,6 +50,7 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -145,6 +146,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "projet"
+    }
+  },
+  "defaultProject": "projet",
+  "cli": {
+    "analytics": "33f12bdf-16d2-43fe-8221-13b6691c26b4"
+  }
 }
